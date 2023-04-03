@@ -1,1 +1,5 @@
-datasets/
+ve/
+
+**/*.pyc
+
+datasets/.pysus/
